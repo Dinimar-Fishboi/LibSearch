@@ -6,4 +6,9 @@ body    {
 #openView{
     width: 80%;
     justify-content: center;
+    margin: 10%;
+}
+
+.ui-widget {
+    width: 100%;
 }

@@ -13,3 +13,9 @@ $( function() {
       source: availableTags
     });
   } );
+
+  printName();
+
+  function printName() {
+      console.log("Hi")
+  }
